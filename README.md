@@ -1,4 +1,9 @@
 # Echo
 
 The Best FREE Geometry Dash Bot.
-(memory buffer overflowing fixed during rendering at 8K)
+
+# Credits
+- [matcool](https://github.com/matcool) for his open source work
+- [Aly](https://github.com/s5bug) for their imgui hook
+- [andre](https://github.com/AndreNih) for cocos headers
+- 👍
